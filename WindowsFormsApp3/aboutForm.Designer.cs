@@ -55,7 +55,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(202, 25);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Автор: Антон Вялых";
+            this.label2.Text = "Автор: А";
             // 
             // label3
             // 
@@ -66,7 +66,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(140, 25);
             this.label3.TabIndex = 2;
-            this.label3.Text = "Группа: БТ-81";
+            this.label3.Text = "Группа: Б";
             // 
             // label4
             // 
